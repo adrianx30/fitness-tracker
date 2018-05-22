@@ -1,5 +1,9 @@
 # FitnessTracker
 
+Example from the ["Angular App"](https://www.udemy.com/angular-full-app-with-angular-material-angularfire-ngrx/learn/v4/overview) course on Udemy.
+
+Use Angular, Angular Material, Angularfire (+ Firebase with Firestore) and NgRx to build a real Angular App
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
 ## Development server
